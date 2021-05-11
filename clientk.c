@@ -1,4 +1,5 @@
 //Cliente.
+//aleksander,danilo, suryan
 #include <stdio.h>
 #include <string.h>
 #include <sys/types.h>
